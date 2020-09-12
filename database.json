@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "postgres",
+        "database": "walletapi-dev"
+    }
+}
